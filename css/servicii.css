@@ -1,0 +1,17 @@
+.servicii{
+width: 100%;
+border-collapse: collapse;
+}
+img{
+    width: 350px;
+    height: 200px;
+}
+
+  
+  td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+    min-width: 200px;
+    font-size: 20px;
+  }

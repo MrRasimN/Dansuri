@@ -1,0 +1,42 @@
+.galerie{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav a{
+    font-size: 28px;
+}
+.titlu{
+    font-size: 24px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.video{
+    margin-right: 30px;
+}
+.linie1,.linie3{
+    display: flex;
+    justify-content: space-between;
+
+}
+.linie2{
+    display: flex;
+    justify-content: center;
+}
+.ln{
+    width: 400px;
+    height: 350px;
+    margin: 0 10px;
+
+}
+
+.ln2{
+    width: 100%;
+    margin: 20px 10px;
+}

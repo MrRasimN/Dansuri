@@ -1,0 +1,27 @@
+.continut{
+    font-size: 20px;
+}
+.nume_pers{
+    font-size: 28px;
+    color: blue;
+    font-weight: bold;
+}
+.loc{
+    font-size: 28px;
+    color: red;
+    font-weight: bold;
+}
+
+.span1{
+    font-size: 20px;
+    text-decoration: underline;
+    color: red;
+}
+
+.span2{
+    color: blue;
+}
+
+.anunt{
+    color: red;
+}
